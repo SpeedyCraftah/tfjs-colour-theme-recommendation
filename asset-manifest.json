@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tfjs-colour-theme-recommendation/static/css/main.4d1b9477.css",
+    "main.js": "/tfjs-colour-theme-recommendation/static/js/main.a6c1d635.js",
+    "static/js/787.f8f9177b.chunk.js": "/tfjs-colour-theme-recommendation/static/js/787.f8f9177b.chunk.js",
+    "index.html": "/tfjs-colour-theme-recommendation/index.html",
+    "main.4d1b9477.css.map": "/tfjs-colour-theme-recommendation/static/css/main.4d1b9477.css.map",
+    "main.a6c1d635.js.map": "/tfjs-colour-theme-recommendation/static/js/main.a6c1d635.js.map",
+    "787.f8f9177b.chunk.js.map": "/tfjs-colour-theme-recommendation/static/js/787.f8f9177b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d1b9477.css",
+    "static/js/main.a6c1d635.js"
+  ]
+}
